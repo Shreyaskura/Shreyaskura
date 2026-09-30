@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="./profile.png" width="100%" alt="Shreyas Developer Banner">
+</p>
 <h1 align="center">Hi 👋, I'm Shreyas</h1>
 
 <p align="center">
