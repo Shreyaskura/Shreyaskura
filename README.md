@@ -109,10 +109,6 @@ Application focused on managing and tracking incidents through a modern web inte
 
 ---
 
-
-## GitHub Statistics
-
-
 ## GitHub Activity
 
 <p align="center">
@@ -124,7 +120,7 @@ Application focused on managing and tracking incidents through a modern web inte
 </p>
 
 <p align="center">
-  <b>95 contributions in the last year</b>
+  <i>Consistent commits. Continuous learning. Building in public.</i>
 </p>
 
 ## Currently Learning
