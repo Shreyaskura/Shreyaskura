@@ -111,21 +111,20 @@ Application focused on managing and tracking incidents through a modern web inte
 
 ## GitHub Statistics
 
+## GitHub Statistics
+
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=Shreyaskura&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github"
-    height="170"
-    alt="Shreyas GitHub statistics"
+    src="https://github-readme-stats.vercel.app/api?username=Shreyaskura&show_icons=true&theme=tokyonight&hide_border=true"
+    width="48%"
+    alt="GitHub Statistics"
   />
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shreyaskura&layout=compact&hide_border=true&theme=tokyonight"
-    height="170"
-    alt="Shreyas top languages"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shreyaskura&layout=compact&theme=tokyonight&hide_border=true"
+    width="48%"
+    alt="Top Languages"
   />
 </p>
-
----
-
 ## Contribution Activity
 
 <p align="center">
