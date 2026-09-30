@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./profile.png" width="100%" alt="Shreyas Developer Banner">
+  <img src="./profile-banner.png" width="100%" alt="Shreyas Developer Banner">
 </p>
 
 <h2 align="center">Building software. Learning systems. Solving problems.</h2>
@@ -16,7 +16,7 @@
 
 ---
 
-## About Me
+## 👨‍💻 About Me
 
 I'm a Computer Science Engineering student interested in building practical applications and understanding how software works under the hood.
 
@@ -29,7 +29,7 @@ I'm a Computer Science Engineering student interested in building practical appl
 
 ---
 
-## Tech Stack
+## 🛠️ Tech Stack
 
 ### Languages
 
@@ -55,9 +55,9 @@ I'm a Computer Science Engineering student interested in building practical appl
   <img src="https://skillicons.dev/icons?i=git,github,linux,vscode&perline=8" />
 </p>
 
+---
 
-
-## Featured Projects
+## 🚀 Featured Projects
 
 <table>
 <tr>
@@ -127,73 +127,9 @@ Application focused on managing and tracking incidents through a modern web inte
 </tr>
 </table>
 
-### 🖥️ SysCore OSSP
-
-Linux / Operating Systems project exploring processes, system calls, memory management and Linux internals.
-
-**C • Linux • GCC • WSL**
-
-</td>
-
-<td width="50%">
-
-### 🏥 Medical Image Optimization
-
-Java project using Matrix Chain Multiplication to optimize the ordering of medical image processing operations.
-
-**Java • DSA • Dynamic Programming**
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-### 🩺 Diabetes Risk Prediction
-
-Machine Learning project using Logistic Regression, Random Forest and Cross-Validation.
-
-**Python • Machine Learning • Scikit-learn**
-
-</td>
-
-<td width="50%">
-
-### 📚 Library Management System
-
-Full-stack library management application with a React frontend and Spring Boot backend.
-
-**React • Spring Boot • MySQL**
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-### 🤟 Sign Language Translator
-
-Computer-vision based application designed to recognize sign language through camera input.
-
-**Python • FastAPI • Computer Vision**
-
-</td>
-
-<td width="50%">
-
-### 🚨 incidentIQ
-
-Application focused on managing and tracking incidents through a modern web interface.
-
-**Python • Web Development**
-
-</td>
-</tr>
-</table>
-
 ---
 
-## GitHub Activity
+## 📊 GitHub Activity
 
 <p align="center">
   <img
@@ -207,7 +143,9 @@ Application focused on managing and tracking incidents through a modern web inte
   <i>Consistent commits. Continuous learning. Building in public.</i>
 </p>
 
-## Currently Learning
+---
+
+## 📚 Currently Learning
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,spring,java,python,linux,mysql&perline=6" />
@@ -219,7 +157,7 @@ Application focused on managing and tracking incidents through a modern web inte
 
 ---
 
-## GitHub
+## 🔗 Connect
 
 <p align="center">
   <a href="https://github.com/Shreyaskura">
