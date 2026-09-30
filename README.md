@@ -1,32 +1,31 @@
 <p align="center">
   <img src="./profile.png" width="100%" alt="Shreyas Developer Banner">
 </p>
-<h1 align="center">Hi 👋, I'm Shreyas</h1>
+
+<h2 align="center">Building software. Learning systems. Solving problems.</h2>
 
 <p align="center">
-  <b>BTech CSE Student • Full-Stack Developer • ML & Systems Enthusiast</b>
+  BTech CSE Student • Full-Stack Developer • ML & Systems
 </p>
 
 <p align="center">
-  <a href="https://github.com/Shreyaskura">
-    <img src="https://img.shields.io/github/followers/Shreyaskura?label=Followers&style=flat" />
-  </a>
-  <a href="https://github.com/Shreyaskura?tab=repositories">
-    <img src="https://img.shields.io/badge/Repositories-View-blue?style=flat" />
-  </a>
+  <a href="https://github.com/Shreyaskura">GitHub</a>
+  •
+  <a href="https://github.com/Shreyaskura?tab=repositories">Projects</a>
 </p>
 
 ---
 
 ## About Me
 
-I'm a Computer Science Engineering student interested in building practical software and understanding how systems work.
+I'm a Computer Science Engineering student interested in building practical applications and understanding how software works under the hood.
 
-- 💻 Building full-stack applications
-- 🤖 Exploring Machine Learning
-- 🐧 Learning Linux & Operating Systems
-- 🧠 Practicing DSA and problem solving
-- 🚀 Turning academic projects into usable applications
+- Full-stack web development
+- Machine Learning
+- Data Structures & Algorithms
+- Linux & Operating Systems
+- Database Systems
+- Building and deploying real projects
 
 ---
 
@@ -40,21 +39,89 @@ I'm a Computer Science Engineering student interested in building practical soft
 
 ## Featured Projects
 
-| Project | Description |
-|---|---|
-| **SysCore OSSP** | Linux / Operating Systems project involving processes, memory management and system calls |
-| **Medical Image Optimization** | Java-based Matrix Chain Multiplication project for optimizing medical image processing |
-| **Diabetes Risk Prediction** | Machine Learning project using Logistic Regression, Random Forest and Cross-Validation |
-| **Library Management System** | Full-stack application using React, Spring Boot and MySQL |
-| **Sign Language Translator** | Computer vision based application for sign language recognition |
+<table>
+<tr>
+<td width="50%">
+
+### 🖥️ SysCore OSSP
+
+Linux / Operating Systems project exploring processes, system calls, memory management and Linux internals.
+
+**C • Linux • GCC • WSL**
+
+</td>
+
+<td width="50%">
+
+### 🏥 Medical Image Optimization
+
+Java project using Matrix Chain Multiplication to optimize the ordering of medical image processing operations.
+
+**Java • DSA • Dynamic Programming**
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 🩺 Diabetes Risk Prediction
+
+Machine Learning project using Logistic Regression, Random Forest and Cross-Validation.
+
+**Python • Machine Learning • Scikit-learn**
+
+</td>
+
+<td width="50%">
+
+### 📚 Library Management System
+
+Full-stack library management application with a React frontend and Spring Boot backend.
+
+**React • Spring Boot • MySQL**
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 🤟 Sign Language Translator
+
+Computer-vision based application designed to recognize sign language through camera input.
+
+**Python • FastAPI • Computer Vision**
+
+</td>
+
+<td width="50%">
+
+### 🚨 incidentIQ
+
+Application focused on managing and tracking incidents through a modern web interface.
+
+**Python • Web Development**
+
+</td>
+</tr>
+</table>
 
 ---
 
 ## GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shreyaskura&show_icons=true&hide_border=true&rank_icon=github" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shreyaskura&layout=compact&hide_border=true" height="170" />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=Shreyaskura&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github"
+    height="170"
+    alt="Shreyas GitHub statistics"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shreyaskura&layout=compact&hide_border=true&theme=tokyonight"
+    height="170"
+    alt="Shreyas top languages"
+  />
 </p>
 
 ---
@@ -62,16 +129,35 @@ I'm a Computer Science Engineering student interested in building practical soft
 ## Contribution Activity
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Shreyaskura/Shreyaskura/output/github-snake.svg" width="800" alt="GitHub contribution snake animation" />
+  <img
+    src="https://raw.githubusercontent.com/Shreyaskura/Shreyaskura/output/github-snake.svg"
+    width="650"
+    alt="GitHub contribution snake animation"
+  />
 </p>
 
 ---
 
 ## Currently Learning
 
-```text
-Data Structures & Algorithms
-Machine Learning
-React & Spring Boot
-Linux & Operating Systems
-Database Systems
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,spring,java,python,linux,mysql&perline=6" />
+</p>
+
+<p align="center">
+  <b>DSA • Machine Learning • Full-Stack Development • Linux • Databases</b>
+</p>
+
+---
+
+## GitHub
+
+<p align="center">
+  <a href="https://github.com/Shreyaskura">
+    <img src="https://img.shields.io/badge/GitHub-Shreyaskura-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  <i>Build • Learn • Improve • Repeat</i>
+</p>
