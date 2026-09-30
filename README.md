@@ -31,11 +31,29 @@ I'm a Computer Science Engineering student interested in building practical appl
 
 ## Tech Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=c,java,python,html,css,js,react,spring,mysql,git,github,linux,vscode&perline=7" />
+### Languages
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=c,java,python,javascript&perline=8" />
 </p>
 
----
+### Frontend
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,react&perline=8" />
+</p>
+
+### Backend & Databases
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=spring,fastapi,mysql&perline=8" />
+</p>
+
+### Tools & Systems
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,linux,vscode&perline=8" />
+</p>
 
 
 
