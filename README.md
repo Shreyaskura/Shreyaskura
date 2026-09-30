@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./profile-banner.png" width="100%" alt="Shreyas Developer Banner">
+  <img src="./profile.png" width="100%" alt="Shreyas Developer Banner">
 </p>
 
 <h2 align="center">Building software. Learning systems. Solving problems.</h2>
